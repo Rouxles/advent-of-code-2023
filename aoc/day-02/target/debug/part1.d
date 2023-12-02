@@ -1,0 +1,1 @@
+/Users/rouxles/Documents/GitHub/advent-of-code-2023/aoc/day-02/target/debug/part1: /Users/rouxles/Documents/GitHub/advent-of-code-2023/aoc/day-02/src/bin/input.txt /Users/rouxles/Documents/GitHub/advent-of-code-2023/aoc/day-02/src/bin/part1.rs
